@@ -1,0 +1,19 @@
+h1,section{
+    text-align:center;
+}
+a{
+    font-size:16px;
+    color:black;
+    margin-left:5px;
+    text-align: justify;
+    text-decoration: none;
+}
+p{
+    display: inline;
+    font-size:16px;
+    text-align: justify;
+    margin-left: 40px;
+}
+input#btnSubmit{
+    margin-right: 106px;    
+}
