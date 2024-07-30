@@ -17,3 +17,9 @@ p{
 input#btnSubmit{
     margin-right: 106px;    
 }
+.bordesBoton{
+    background-color: rgb(0, 140, 255);
+    padding: 8px;
+    border-radius:10px;
+    color:aliceblue;
+}
